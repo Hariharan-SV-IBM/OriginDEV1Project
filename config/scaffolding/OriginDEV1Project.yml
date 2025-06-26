@@ -7,6 +7,10 @@ packages:
   gitUrl: https://github.com/Hariharan-SV-IBM
   gitUsername: Hariharan-SV-IBM
   gitBranch: main
+- name: WmAmazonEC2Provider
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: supported
+  wpmVersion: v10.5.0
 services:
 - serviceName: project.origindev1.integrations:dafSVC
   packages:
