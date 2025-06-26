@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/Hariharan-SV-IBM
   gitUsername: Hariharan-SV-IBM
   gitBranch: main
+services:
+- serviceName: project.origindev1.integrations:dafSVC
+  packages:
+  - name: OriginDEV1Project
+    version: "1.0"
+- serviceName: pub.math:randomDouble
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2068
