@@ -11,6 +11,11 @@ packages:
   wpmServer: https://packages.webmethods.io
   wpmRegistry: supported
   wpmVersion: v10.5.0
+- name: PublicPrivateCheck
+  gitServerName: remoteGit
+  gitUrl: https://github.com/Munatri
+  gitUsername: Hariharan-SV-IBM
+  gitBranch: main
 services:
 - serviceName: project.origindev1.integrations:dafSVC
   packages:

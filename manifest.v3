@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmAmazonEC2Provider">10.5.0.0.4</value>
+    <value name="PublicPrivateCheck">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">5</value>
+  <value name="build">6</value>
   <null name="description"/>
   <value name="created_date">26-06-2025 01:55:48 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-06-26T02:04:32.697772199Z</value>
+  <value name="lastUpdated">2025-06-26T02:05:00.038086497Z</value>
   <value name="wmProjectId">fl74343ab8b4ea9c49968a3f</value>
   <value name="creator">Hariharan SV</value>
 </Values>
